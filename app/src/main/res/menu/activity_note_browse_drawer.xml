@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/shareNotes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Share My Notes" />
+
+    </group>
+
+    <item android:title="Pharmacy Notes">
+        <menu>
+            <item
+                android:id="@+id/general"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/General_Pharmacy" />
+            <item
+                android:id="@+id/pharmaceutics"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharmaceutics" />
+            <item
+                android:id="@+id/pharmacology"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharmacology" />
+            <item
+                android:id="@+id/pharmacognosy"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharmacognosy" />
+            <item
+                android:id="@+id/pharmaceutical_chemistry"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharmaceutical_Chemistry" />
+            <item
+                android:id="@+id/clinicalpharma"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Clinical_Pharmacy" />
+            <item
+                android:id="@+id/pharmacyjurisprudence"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharmacy_Jurisprudence" />
+            <item
+            android:id="@+id/pharmaceuticalanalysis"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/Pharmaceutical_Analysis" />
+            <item
+                android:id="@+id/hospitalpharma"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Hospital_Pharmacy" />
+            <item
+                android:id="@+id/lifescience"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Life_Science" />
+            <item
+                android:id="@+id/pharmabusiness"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/Pharma_Business" />
+
+
+        </menu>
+
+
+    </item>
+    <item android:title="About us">
+        <menu>
+    <item
+        android:id="@+id/pro"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Disable Ads" /></menu></item>
+</menu>

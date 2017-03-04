@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NoteScape</string>
+    <string name="title_activity_note_browse">NoteBrowseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Subjects Category -->
+    <string name="General_Pharmacy">General Pharmacy</string>
+    <string name="Pharmaceutics">Pharmaceutics</string>
+    <string name="Pharmacology">Pharmacology</string>
+    <string name="Pharmacognosy">Pharmacognosy</string>
+    <string name="Pharmaceutical_Chemistry">Pharmaceutical Chemistry</string>
+    <string name="Clinical_Pharmacy">Clinical Pharmacy</string>
+    <string name="Hospital_Pharmacy">Hospital Pharmacy</string>
+    <string name="Life_Science">Life Science</string>
+    <string name="Pharma_Business">Pharma Business</string>
+
+    <string name="Pharmacy_Jurisprudence">Pharmacy Jurisprudence</string>
+    <string name="Pharmaceutical_Analysis">Pharmaceutical Analysis</string>
+
+
+</resources>

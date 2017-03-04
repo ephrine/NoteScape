@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "975233405815",
+    "firebase_url": "https://notescape-906c2.firebaseio.com",
+    "project_id": "notescape-906c2",
+    "storage_bucket": "notescape-906c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975233405815:android:aa2085f472d3c6fd",
+        "android_client_info": {
+          "package_name": "devesh.ephrine.notescape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975233405815-9ch59cikcm9psbbcjvfgeajktjeur79o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devesh.ephrine.notescape",
+            "certificate_hash": "c455f708103f0ef1b804e090a77df049949caaa7"
+          }
+        },
+        {
+          "client_id": "975233405815-qq0b9c1l4ec6j51mvhs2lfd3hoi8tuk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcnK5hhAI_FI9NdhLKpmNiKBCNyK56KMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975233405815-qq0b9c1l4ec6j51mvhs2lfd3hoi8tuk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
